@@ -1,0 +1,8 @@
+touch rebeccapoulson.txt
+ echo My name is Rebecca I like farro I live in Brooklyn >> rebeccapoulson.txt
+cat rebeccapoulson.txt
+cat rebeccapoulson.txt >> rebeccapoulsoncopy.txt
+mv rebeccapoulsoncopy.txt stevenrules.txt
+cat rebeccapoulson.txt stevenrules.txt >> everything.txt
+echo I like pina coladas and getting caught in the rain >> everything.txt
+ls *.txt >> textfileslist

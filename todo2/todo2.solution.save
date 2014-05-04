@@ -1,0 +1,6 @@
+touch rebeccapoulson.txt
+nano rebeccapoulson.txt
+command O
+cat rebeccapoulson.txt
+open rebeccapoulson.txt
+mv "rebeccapoulsoncopy.txt" "stevenrules.txt
